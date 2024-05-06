@@ -27,7 +27,7 @@ The selected controller is the Arduino Mega2650 board. The source code with deta
 ## Demo (optional)
 Some photos or videos...
 
-![Demo video](https://www.techsmith.com/blog/wp-content/uploads/2023/03/how-to-make-a-youtube-video.png)
+[![A video](https://img.youtube.com/vi/pnN55lJG_4c/0.jpg)](https://www.youtube.com/watch?v=pnN55lJG_4c)
 
 ## Weekly update
 - Week 1
